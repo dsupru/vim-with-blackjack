@@ -3,7 +3,7 @@
   "name": "Vim.. with Blackjack",
   "version": "1.0",
 
-  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "description": "Vim navigation for the Web.",
 
   "icons": {
     "48": "icons/border-48.png"
