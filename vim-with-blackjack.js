@@ -21,6 +21,7 @@ document.addEventListener("keydown", (event) => {
 		} else if (event.key === "i") {
 			MODE_IN_INSERT = true;
 			document.body.style.border = "5px solid red";
+			event.preventDefault();
 		}
 	}
 });
